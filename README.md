@@ -1,15 +1,12 @@
 # zippix
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
-
-The choice is up to you!
+Unzip zip files stored in your jar under resources!  Don't try to do this yourself!
 
 ## Usage
 
-FIXME
+(use 'zippix.core)
+(unzip-resource "zip/file/in/resources" "local/path/to/copy/to")
 
 ## License
-
-Copyright © 2012 FIXME
 
 Distributed under the Eclipse Public License, the same as Clojure.

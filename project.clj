@@ -1,4 +1,4 @@
-(defproject zippix "0.1.0"
+(defproject antler/zippix "0.1.0"
   :description "ZIPPIX:  Deal with zip files as resources from clojure"
   :url "http://github.com/antler/caribou"
   :license {:name "Eclipse Public License"
